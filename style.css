@@ -1,0 +1,3 @@
+body { background-color: #1a1a1a; color: #d4af37; font-family: sans-serif; text-align: center; padding-top: 100px; }
+h1 { font-size: 3rem; border-bottom: 2px solid #d4af37; display: inline-block; padding-bottom: 10px; }
+button { background: #d4af37; color: #1a1a1a; border: none; padding: 15px 30px; font-size: 1.2rem; cursor: pointer; border-radius: 5px; margin-top: 20px; font-weight: bold; }
